@@ -3,7 +3,9 @@
 ls 查看
 rm 刪除
 touch 新增檔案
-## Git config
-`git config --global user.name "eeff5049"`
+pwd 顯示目前所在目錄 print word document
 
-`git config --global user.email "eeff5049@gmail.com"`
+## Git config
+`git config  user.name "eeff5049"`
+
+`git config  user.email "eeff5049@gmail.com"`
